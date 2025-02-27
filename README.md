@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! 👋 I'm Lord&#x20;
 
-<!--
-**Lordsofzzzz/Lordsofzzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Cybersecurity Enthusiast | Ethical Hacker | Developer
 
-Here are some ideas to get you started:
+🔹 Passionate about **penetration testing, ethical hacking, and cybersecurity**\
+🔹 Skilled in **Python, C, Linux, HTML, and Java**\
+🔹 Learning **Data Structures & Algorithms (DSA), and advanced cybersecurity techniques**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Skills
+
+- 🔹 **Cybersecurity**: Penetration Testing, Red Teaming, Web Application Security
+- 🔹 **Programming**: Python, C, Java
+- 🔹 **Tools & Technologies**: Kali Linux, Metasploit, Burp Suite, Wireshark
+- 🔹 **Web Technologies**: HTML, Web Security
+- 🔹 **Other**: Git, Windows & Linux Administration
+
+---
+
+### 📚 Currently Learning
+
+- 🔹 **C & DSA** (Building strong problem-solving skills!)
+- 🔹 **Offensive Security** (Mastering ethical hacking and red teaming)
+- 🔹 **Reverse Engineering & Exploit Development**
+
+---
+
+💡 *"Securing the digital world, one exploit at a time!"* 🚀
