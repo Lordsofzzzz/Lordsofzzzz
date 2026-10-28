@@ -8,13 +8,9 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 I build, automate, and secure cloud infrastructure. I enjoy turning manual work into pipelines, and I care about monitoring and security from the start.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -39,16 +35,12 @@ I build, automate, and secure cloud infrastructure. I enjoy turning manual work 
   <img src="https://img.shields.io/badge/OWASP-A855F7?style=for-the-badge&labelColor=0d1117" alt="OWASP"/>
 </p>
 
----
-
 ## 🏆 Certifications
 
 <p align="center">
   <a href="https://www.credly.com/users/aditya-kale.f28d8550/badges"><img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Certified Cloud Practitioner"/></a>
   <img src="https://img.shields.io/badge/CKA-In_Progress-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117" alt="Certified Kubernetes Administrator - in progress"/>
 </p>
-
----
 
 ## 🔗 Find Me Online
 
